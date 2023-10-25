@@ -1,0 +1,3 @@
+C:/Users/cinti/Documents/GitHub/Prueba/one/cmake-build-debug/CMakeFiles/one.dir
+C:/Users/cinti/Documents/GitHub/Prueba/one/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cinti/Documents/GitHub/Prueba/one/cmake-build-debug/CMakeFiles/rebuild_cache.dir
